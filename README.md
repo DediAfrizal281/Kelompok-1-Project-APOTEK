@@ -1,2 +1,2 @@
-# Kelompok-1-Project-Travelin
+# Kelompok-1-Project-Apotek
 Proses Pengerjaan Pembuatan WEB Travelin dengan CI
